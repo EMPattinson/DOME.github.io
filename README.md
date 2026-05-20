@@ -1,2 +1,3 @@
-# DOME.github.io
-Temporary website for the DOME project taking place at the University of Birmingham
+# The DOME Project
+Upcycling academic posters into multi-purpose geodesic domes!
+Organised by Ilija Rasovic and Kylee Goode.
