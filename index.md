@@ -2,12 +2,13 @@
 layout: default
 ---
 
-The cake fairy has chosen:
-  -  Oliver
-  -  Clara
-  -  Catherine
+We can have some very basic text here to advertise the project:
+- Including some bullet points et.c (it uses markdown)
 
-to bring the cake next week. See you all on the Wednesday the 11!
+We can also include some pictures like so
+<img src="./images/placeholder.png" style="display: block; margin: auto;" />
 
 
-Updated 2026-04-28 09:30:57
+And we may want to put some emails people can use to get in contact with us so:
+- Organisers: Ilija : i.rasovic@bham.ac.uk or Kylee : k.r.goode@bham.ac.uk
+- Website maintained by : Euan exp942@student.bham.ac.uk
